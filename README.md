@@ -7,8 +7,8 @@ Just a simple demo of a YouTube search built in React ⚛️
 Checkout this repo:
 
 ```
-> git clone https://github.com/adrichey/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/adrichey/youtube-react-demo.git
+> cd youtube-react-demo
 > touch .env
 ```
 
